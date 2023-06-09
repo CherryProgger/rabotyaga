@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathGameGui</string>
+    <string name="login">Введите имя</string>
+    <string name="name">Имя</string>
+</resources>
